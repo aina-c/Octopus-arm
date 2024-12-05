@@ -5,3 +5,5 @@ This code works for the current prototype however, other iterations may have to 
 
 
 For this project were used: 1 Arduino Uno Wifi Rev2, 1 L298N dual H-Bridge motor driver, 2 DC 12V 140rpm-i45 motors with gearbox and encoder integrated and a strain gauge module with positive and negative bending angle sensor.
+
+Short video of the final prototype: https://www.youtube.com/watch?v=gJH1SD7b8dY
